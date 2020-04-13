@@ -1,0 +1,11 @@
+PUBLIC:
+  公共参数key: 公共参数value
+
+COMPARE:
+  # 内部参数配置
+  context_diff.number: 0
+
+  # 主要参数配置
+  home_dir: 'E:\临时文件夹\20200410\dbpwdmodify\'
+  bak_name_feature: '*_bak'
+  ignore: ['.[clmsv]*', '*.result', 'info.*', '*.info','oradiag*','sunyardlog']
